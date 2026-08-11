@@ -8,4 +8,6 @@ Build a web application where users can monitor servers, services, and applicati
     Node.js
     Nginx
 
+    to start you should run: npm run dev
+
     WORK IN PROGRESS!!!
