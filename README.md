@@ -1,8 +1,8 @@
 # DevOps-Dashboard
-<
+
 Build a web application where users can monitor servers, services, and applications in real time.
 
-    #Tech Stack:
+    ##Tech Stack:
 
     React
     TypeScript
@@ -14,4 +14,3 @@ Build a web application where users can monitor servers, services, and applicati
     to start you should run: **npm run dev**
 
     WORK IN PROGRESS!!!
->
