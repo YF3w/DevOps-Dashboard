@@ -9,8 +9,7 @@ Build a web application where users can monitor servers, services, and applicati
     Node.js
     Nginx
 
-    For getting the metrics **node-system-stats** library is used
-
-    to start you should run: **npm run dev**
+    For getting the metrics ** node-system-stats ** library is used 
+    to start you should run: ** npm run dev ** 
 
     WORK IN PROGRESS!!!
