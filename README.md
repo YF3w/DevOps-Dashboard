@@ -4,13 +4,14 @@
 
 ## Tech Stack: 
 
-    -React
-    -TypeScript 
-    -Node.js 
-    -Nginx 
+    - React
+    - TypeScript 
+    - Node.js 
+    - Nginx 
 
-For getting the metrics **node-system-stats** library is used 
-to start you should run: **npm run dev** 
+For getting the metrics **node-system-stats** library is used./n
+To start you should run: **npm run dev**
+
 
 **WORK IN PROGRESS!!!**
 
